@@ -1,0 +1,7 @@
+.checkbox-marked{
+    text-decoration: line-through;
+}
+
+.checkbox-unmarked{
+    text-decoration: none;
+}
